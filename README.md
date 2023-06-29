@@ -1,1 +1,2 @@
  CODE DEMO
+ MAP DEMO
